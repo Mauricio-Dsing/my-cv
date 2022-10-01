@@ -1,0 +1,194 @@
+body{
+    background-color: white;
+}
+.container{
+            height: 100vh;
+            display:grid; 
+            grid-template-columns: 20% 30% 30% 20%;
+                   
+        }
+        #mau{
+         width:100%;
+         border:10px solid rgb(133, 171, 229);
+         padding:10px;
+         margin: 3px;
+         background-color:#107091;
+         box-sizing:border-box;
+         font-size: 20px;
+         font-family: Verdana;
+         text-align: center;
+         font-variant: small-caps;
+        }
+
+        #ip{
+         width:100%;
+         border:10px solid rgb(133, 171, 229);     
+         margin: 3px;
+         background-color:#107091;
+         box-sizing:border-box;
+         font-size: 18px;
+         font-family: Verdana;
+         text-align: center;
+        }
+
+        p{
+            width:100%;
+            color: rgb(133, 171, 229);
+            padding: 10px;
+            margin: 3px;
+            background-color:rgb(190, 226, 238);
+            box-sizing:border-box;
+            font-size: 13px;
+            font-family: Verdana;
+            text-align: center;
+            color: rgb(0, 0, 0);
+
+        }
+
+        #ed{
+            width:100%;
+            border:10px solid rgb(133, 171, 229);
+            padding:10px;
+            margin: 3px;
+            background-color:rgb(16, 112, 145);
+            box-sizing:border-box;
+            font-size: 18px;
+            font-family: Verdana;
+            text-align: center;
+        }
+
+        #grado{
+            width:100%;
+            color:  rgb(133, 171, 229);
+            padding: 10px;
+            margin: 3px;
+            background-color:rgb(190, 226, 238);
+            box-sizing:border-box;
+            font-size: 14px;
+            font-family: Verdana;
+            text-align: center;
+            color: rgb(0, 0, 0);
+
+        }
+
+
+        .box2{
+            background-color: rgb(16, 112, 145);
+            padding:10px;
+            color:black;    
+            text-align:center;
+            font-family: Verdana;
+        }
+        #na{
+            width:100%;
+            
+            padding: 10px;
+            margin: 3px;
+            background-color:rgb(16, 112, 145);
+            box-sizing:border-box;
+            font-size: 14px;
+            font-family: Verdana;
+            text-align: center;
+            color: rgb(0, 0, 0);
+        }
+        .box3{
+            background-color: rgb(190, 226, 238);
+            padding:10px;
+            color:rgb(0, 0, 0);    
+            text-align: center;
+            font-family: Verdana;
+            
+        }
+
+        .boxintro{
+            background-color: white;
+            color: black;
+            text-align: center;
+            font-family: Verdana;
+            padding: 10px;
+            margin: 20px;
+            position: relative;right: 10px; 
+            row-gap: 30px;
+        }
+
+        .boximg{
+            
+            background-color: #107091;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            inline-size: 100%;
+            
+        }
+       
+        
+        #exp{
+            width:100%;
+            border:10px solid rgb(133, 171, 229);
+            padding:10px;
+            margin: 3px;
+            background-color:#107091;
+            box-sizing:border-box;
+            font-size: 18px;
+            font-family: Verdana;
+            text-align: center;
+        }
+        #infoeducacion{
+            width:100%;
+            color:  rgb(133, 171, 229);
+            padding: 10px;
+            margin: 3px;
+            background-color:rgb(190, 226, 238);
+            box-sizing:border-box;
+            font-size: 14px;
+            font-family: Verdana;
+            text-align: center;
+            color: rgb(0, 0, 0);
+
+        }
+        
+        ul{
+            width:100%;
+            color: rgb(133, 171, 229);
+            padding: 10px;
+            margin: 3px;
+            background-color:rgb(190, 226, 238);
+            box-sizing:border-box;
+            font-size: 14px;
+            font-family: Verdana;
+            text-align: center;
+            color: rgb(0, 0, 0);
+        
+        }
+        #link{
+            width:100%;                      
+            background-color:rgb(16, 112, 145);
+            box-sizing:border-box;
+            font-size: 12px;
+            font-family: Verdana;
+            text-align: center;            
+        }
+
+        #contacto{
+            width:100%;
+            padding:10px;
+            margin: 3px;
+            background-color:#107091;
+            box-sizing:border-box;
+            font-size: 18px;
+            font-family: Verdana;
+            text-align: center;
+            font-weight: bold;
+
+        }
+        #name{
+            background-color:#107091;
+            text-align: left;
+            font-weight: bold;
+
+        }
+      
+        #hab, #js, #hobbies{
+            background-color:#107091 ;
+
+        }
